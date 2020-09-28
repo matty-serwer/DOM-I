@@ -7,7 +7,7 @@ body {
 .digit {
   display: inline-block;
   font-family: 'Major Mono Display', monospace;
-  font-size: 80px;
+  font-size: 180px;
 }
 
 .redDigit {
